@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-### Course of My's Career
+### Course of My's Education
 
 > 2020.06 ~
 > 
