@@ -16,7 +16,7 @@
 >  - Codestates BlockChain BootCamp 6기 수료
 > -----
 >
-> 2022.05 ~ 2022.05
+> 2023.05 ~ 2023.05
 >
 >  - Progammers 내일배움코스 FE채용과제 수료
 
