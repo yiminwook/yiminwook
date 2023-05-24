@@ -7,7 +7,7 @@
 
 ### Course of My's Education
 
-> 2020.06 ~
+> 2022.06 ~
 > 
 > -----
 >
