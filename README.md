@@ -23,5 +23,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiminwook&layout=donut)](https://github.com/yiminwook/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiminwook&show_icons=true&ring_color=7600bc)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiminwook&show_icons=true&ring_color=7600bc)
 
+ -->
