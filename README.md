@@ -11,11 +11,6 @@
 >
 >  - Codestates BlockChain BootCamp 6기 수료
 > -----
->
-> 2023.05 ~ 2023.05
->
->  - Progammers 내일배움코스 FE채용과제 수료
-> -----
 > 2023.07.11 ~
 >
 > - FrontEnd 개발자로 근무중
